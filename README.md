@@ -13,7 +13,7 @@ is a fashion subscription service that delivers a curated selection of trendy cl
 - **API** built with Node, GraphQL, Express, Sequelize (MySQL) and JWT Auth
 - **WebApp** built with React and Redux along with Server Side Rendering (SSR) / SEO friendly
 - **Mobile** (Android and iOS) Native App build with React Native
-- Written in ES6+ using Babel + Webpack
+
 
 
 ## Features
