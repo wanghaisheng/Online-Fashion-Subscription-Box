@@ -1,4 +1,5 @@
-# >  Crate is a fashion subscription service that delivers a curated selection of trendy clothes and accessories right to your door every month. Designed for style-savvy individuals who want to stay ahead of fashion trends without the hassle of shopping.
+# >  Crate 
+is a fashion subscription service that delivers a curated selection of trendy clothes and accessories right to your door every month. Designed for style-savvy individuals who want to stay ahead of fashion trends without the hassle of shopping.
 
 > Developed using Node.js, React, Redis, MongoDB, and Docker is now available,
 
